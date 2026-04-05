@@ -1,6 +1,6 @@
-# BioQuery‑AI‑Chatbot 🤖
+# SmartBio-Assistant 🤖
 
-BioQuery‑AI‑Chatbot is a custom AI-powered web platform designed for biomedical research. It allows researchers to input biomedical queries (e.g., **target discovery**, **protein expression**) and receive comprehensive responses from **multiple AI engines**. These engines include ChatGPT, Claude, Gemini, Mistral, XAI, and DeepSeek, which work in parallel to provide diverse insights and responses. The system displays side-by-side answers from all engines and provides citations where available.
+SmartBio-Assistant‑Chatbot is a custom AI-powered web platform designed for biomedical research. It allows researchers to input biomedical queries (e.g., **target discovery**, **protein expression**) and receive comprehensive responses from **multiple AI engines**. These engines include ChatGPT, Claude, Gemini, Mistral, XAI, and DeepSeek, which work in parallel to provide diverse insights and responses. The system displays side-by-side answers from all engines and provides citations where available.
 
 ## 🚀 Key Features
 
@@ -27,7 +27,7 @@ Follow these instructions to get the project running on your local machine.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/BusraRafa/BioQuery‑AI‑Chatbot.git
+git clone https://github.com/BusraRafa/SmartBio-Assistant.git
 cd BioQuery‑AI‑Chatbot
 
 # 2. (Optional but recommended) Create a virtual environment
